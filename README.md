@@ -5,7 +5,7 @@ A mobile app that organizes roommate communication, financials, chores, and more
 Abodie is your one stop shop for everything you need to coordinate and communicate with your roommates.  Our financials page makes it easy to keep track of bills with a summary page to organize individual charges for each roommate and a total amount owed by you or them.  Our chores feature is a quick way to post chores or house needs and see who claims them and when, so you can get on your roomie's case if they're slacking!  Plus a built in message board for group chat makes it easy to keep all your communication confined to one place, your very own Abodie!
 
 ## Demo
-Video demo coming soon!
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=C8CSflsa9SQ" target="_blank"><img src="http://img.youtube.com/vi/C8CSflsa9SQ/0.jpg" alt="Abodie Demo" width="240" height="180" border="10" /></a>
 
 ### Screenshots
 ![alt text](https://i.imgur.com/SHpfig5.png?1 "Splash Screen")
